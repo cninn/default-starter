@@ -1,0 +1,5 @@
+# node_modules klasörü ve içeriğini yoksay
+node_modules/
+
+# yerel yapılandırma dosyalarını (örneğin, .env) yoksay
+.env

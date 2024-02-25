@@ -1,0 +1,1 @@
+alert('SCRİPT SRC ÇALIŞIYOR');
